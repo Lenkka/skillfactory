@@ -1,12 +1,12 @@
 name=input('Введите имя ')
-name=input('Введите имя ')win=0
-name=input('Введите имя ')los=0
-name=input('Введите имя ')while win+los<3:
-name=input('Введите имя ')  import random
-name=input('Введите имя ')  user1=random.randint(1,3)
-name=input('Введите имя ')  user2=input('Введите: "камень", "ножницы" или "бумага" ')
-name=input('Введите имя ')  if user2.upper()=='КАМЕНЬ':
-name=input('Введите имя ')    u2=1
+win=0
+los=0
+while win+los<3:
+  import random
+  user1=random.randint(1,3)
+  user2=input('Введите: "камень", "ножницы" или "бумага" ')
+  if user2.upper()=='КАМЕНЬ':
+    u2=1
   elif user2.upper()=='НОЖНИЦЫ':
     u2=2
   elif user2.upper()=='БУМАГА':
@@ -29,7 +29,6 @@ name=input('Введите имя ')    u2=1
     win+=1
     print('Вы выиграли: компьютер сказал "{}", а вы сказали "{}"'.format(u1, user2))
 print('Счет матча: {} - {}, компьютер - {}'.format(name, win, los))
-
 
 
 
