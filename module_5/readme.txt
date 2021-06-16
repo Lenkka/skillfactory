@@ -1,5 +1,10 @@
 Описание проекта:
 
+Проект выполнен на Kaggle:
+Автор: Lenka Vinogradova (https://www.kaggle.com/lenkavinogradova)
+Ссылка на ноутбук на Kaggle: https://www.kaggle.com/lenkavinogradova/project-05-computer-is-say-no-vinogradova
+Достигнутая в соревновании метрика: 0.73910
+
 I. Основные цели и задачи проекта
 
 Суть учебного проекта — найти среди будущих заемщиков тех, кому кредит давать нежелательно (велика вероятность дефолта).
