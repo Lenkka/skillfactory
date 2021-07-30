@@ -1,6 +1,7 @@
 ## Выводы
 
 Достигнутая в соревновании максимальная метрика: 12.51618
+Ссылка на Kaggle: https://www.kaggle.com/lenkavinogradova/ar-selection-vinogradova
 
 I. Основные цели и задачи проекта
 
